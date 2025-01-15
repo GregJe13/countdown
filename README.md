@@ -13,6 +13,6 @@ countdown
 
 ## How to use the laravel?
 
-Saya menggunakan laravel dengan xampp
+Saya menggunakan laravel dengan xampp dan terminal vscode php artisan serve
 
 
