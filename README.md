@@ -11,7 +11,7 @@
 
 countdown
 
-## How i create the laravel?
+## How to use the laravel?
 
 Saya menggunakan laravel dengan xampp
 
